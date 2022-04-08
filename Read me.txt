@@ -1,32 +1,32 @@
-Step 1 
+Step 1
 
 Start Your Xampp apache mysql
-
+create DataBase
+Import MySql_File in dataBase
 Step 2 
-
 You Need to Run command to generate User_access_Token
 
  php artisan schadule:work
 
 
-Step 3 
+Step 3
 
 chose a Bank to import a connection
 
 
-Step 4 
+Step 4
 
 Click The URL to for 2 step verification
 
-Step 5 
+Step 5
 
-Login FinBankApi 
+Login FinBankApi
 
-Step 6 
+Step 6
 
 Return your Application
 
 
 
 
- 
+
